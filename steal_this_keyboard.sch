@@ -19,7 +19,7 @@ U 1 1 609D80A7
 P 1700 1950
 F 0 "U1" H 1700 2787 60  0000 C CNN
 F 1 "ProMicro" H 1700 2681 60  0000 C CNN
-F 2 "Keebio-Parts:ArduinoProMicro" V 2750 -550 60  0001 C CNN
+F 2 "steal_this_keyboard:ArduinoProMicro" V 2750 -550 60  0001 C CNN
 F 3 "" V 2750 -550 60  0001 C CNN
 	1    1700 1950
 	1    0    0    -1  
@@ -55,7 +55,7 @@ U 1 1 609E2F27
 P 7150 2700
 F 0 "SW17" H 7150 2985 50  0000 C CNN
 F 1 "SW_Push" H 7150 2894 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u" H 7150 2900 50  0001 C CNN
+F 2 "steal_this_keyboard:Kailh-PG1350-1u-reversible" H 7150 2900 50  0001 C CNN
 F 3 "~" H 7150 2900 50  0001 C CNN
 	1    7150 2700
 	1    0    0    -1  
@@ -66,7 +66,7 @@ U 1 1 609E2F21
 P 6500 2700
 F 0 "SW13" H 6500 2985 50  0000 C CNN
 F 1 "SW_Push" H 6500 2894 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u" H 6500 2900 50  0001 C CNN
+F 2 "steal_this_keyboard:Kailh-PG1350-1u-reversible" H 6500 2900 50  0001 C CNN
 F 3 "~" H 6500 2900 50  0001 C CNN
 	1    6500 2700
 	1    0    0    -1  
@@ -77,7 +77,7 @@ U 1 1 609E18E7
 P 7150 2350
 F 0 "SW16" H 7150 2635 50  0000 C CNN
 F 1 "SW_Push" H 7150 2544 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u" H 7150 2550 50  0001 C CNN
+F 2 "steal_this_keyboard:Kailh-PG1350-1u-reversible" H 7150 2550 50  0001 C CNN
 F 3 "~" H 7150 2550 50  0001 C CNN
 	1    7150 2350
 	1    0    0    -1  
@@ -88,7 +88,7 @@ U 1 1 609E18E1
 P 7150 2000
 F 0 "SW15" H 7150 2285 50  0000 C CNN
 F 1 "SW_Push" H 7150 2194 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u" H 7150 2200 50  0001 C CNN
+F 2 "steal_this_keyboard:Kailh-PG1350-1u-reversible" H 7150 2200 50  0001 C CNN
 F 3 "~" H 7150 2200 50  0001 C CNN
 	1    7150 2000
 	1    0    0    -1  
@@ -99,7 +99,7 @@ U 1 1 609E18DB
 P 7150 1650
 F 0 "SW14" H 7150 1935 50  0000 C CNN
 F 1 "SW_Push" H 7150 1844 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u" H 7150 1850 50  0001 C CNN
+F 2 "steal_this_keyboard:Kailh-PG1350-1u-reversible" H 7150 1850 50  0001 C CNN
 F 3 "~" H 7150 1850 50  0001 C CNN
 	1    7150 1650
 	1    0    0    -1  
@@ -110,7 +110,7 @@ U 1 1 609DC569
 P 6500 2350
 F 0 "SW12" H 6500 2635 50  0000 C CNN
 F 1 "SW_Push" H 6500 2544 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u" H 6500 2550 50  0001 C CNN
+F 2 "steal_this_keyboard:Kailh-PG1350-1u-reversible" H 6500 2550 50  0001 C CNN
 F 3 "~" H 6500 2550 50  0001 C CNN
 	1    6500 2350
 	1    0    0    -1  
@@ -121,7 +121,7 @@ U 1 1 609DC563
 P 5850 2350
 F 0 "SW9" H 5850 2635 50  0000 C CNN
 F 1 "SW_Push" H 5850 2544 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u" H 5850 2550 50  0001 C CNN
+F 2 "steal_this_keyboard:Kailh-PG1350-1u-reversible" H 5850 2550 50  0001 C CNN
 F 3 "~" H 5850 2550 50  0001 C CNN
 	1    5850 2350
 	1    0    0    -1  
@@ -132,7 +132,7 @@ U 1 1 609DC55D
 P 5200 2350
 F 0 "SW6" H 5200 2635 50  0000 C CNN
 F 1 "SW_Push" H 5200 2544 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u" H 5200 2550 50  0001 C CNN
+F 2 "steal_this_keyboard:Kailh-PG1350-1u-reversible" H 5200 2550 50  0001 C CNN
 F 3 "~" H 5200 2550 50  0001 C CNN
 	1    5200 2350
 	1    0    0    -1  
@@ -143,7 +143,7 @@ U 1 1 609DC557
 P 4550 2350
 F 0 "SW3" H 4550 2635 50  0000 C CNN
 F 1 "SW_Push" H 4550 2544 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u" H 4550 2550 50  0001 C CNN
+F 2 "steal_this_keyboard:Kailh-PG1350-1u-reversible" H 4550 2550 50  0001 C CNN
 F 3 "~" H 4550 2550 50  0001 C CNN
 	1    4550 2350
 	1    0    0    -1  
@@ -154,7 +154,7 @@ U 1 1 609DBD47
 P 6500 2000
 F 0 "SW11" H 6500 2285 50  0000 C CNN
 F 1 "SW_Push" H 6500 2194 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u" H 6500 2200 50  0001 C CNN
+F 2 "steal_this_keyboard:Kailh-PG1350-1u-reversible" H 6500 2200 50  0001 C CNN
 F 3 "~" H 6500 2200 50  0001 C CNN
 	1    6500 2000
 	1    0    0    -1  
@@ -165,7 +165,7 @@ U 1 1 609DBD41
 P 5850 2000
 F 0 "SW8" H 5850 2285 50  0000 C CNN
 F 1 "SW_Push" H 5850 2194 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u" H 5850 2200 50  0001 C CNN
+F 2 "steal_this_keyboard:Kailh-PG1350-1u-reversible" H 5850 2200 50  0001 C CNN
 F 3 "~" H 5850 2200 50  0001 C CNN
 	1    5850 2000
 	1    0    0    -1  
@@ -176,7 +176,7 @@ U 1 1 609DBD3B
 P 5200 2000
 F 0 "SW5" H 5200 2285 50  0000 C CNN
 F 1 "SW_Push" H 5200 2194 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u" H 5200 2200 50  0001 C CNN
+F 2 "steal_this_keyboard:Kailh-PG1350-1u-reversible" H 5200 2200 50  0001 C CNN
 F 3 "~" H 5200 2200 50  0001 C CNN
 	1    5200 2000
 	1    0    0    -1  
@@ -187,7 +187,7 @@ U 1 1 609DBD35
 P 4550 2000
 F 0 "SW2" H 4550 2285 50  0000 C CNN
 F 1 "SW_Push" H 4550 2194 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u" H 4550 2200 50  0001 C CNN
+F 2 "steal_this_keyboard:Kailh-PG1350-1u-reversible" H 4550 2200 50  0001 C CNN
 F 3 "~" H 4550 2200 50  0001 C CNN
 	1    4550 2000
 	1    0    0    -1  
@@ -198,7 +198,7 @@ U 1 1 609DA6E9
 P 6500 1650
 F 0 "SW10" H 6500 1935 50  0000 C CNN
 F 1 "SW_Push" H 6500 1844 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u" H 6500 1850 50  0001 C CNN
+F 2 "steal_this_keyboard:Kailh-PG1350-1u-reversible" H 6500 1850 50  0001 C CNN
 F 3 "~" H 6500 1850 50  0001 C CNN
 	1    6500 1650
 	1    0    0    -1  
@@ -209,7 +209,7 @@ U 1 1 609DA6E3
 P 5850 1650
 F 0 "SW7" H 5850 1935 50  0000 C CNN
 F 1 "SW_Push" H 5850 1844 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u" H 5850 1850 50  0001 C CNN
+F 2 "steal_this_keyboard:Kailh-PG1350-1u-reversible" H 5850 1850 50  0001 C CNN
 F 3 "~" H 5850 1850 50  0001 C CNN
 	1    5850 1650
 	1    0    0    -1  
@@ -220,7 +220,7 @@ U 1 1 609D9C87
 P 5200 1650
 F 0 "SW4" H 5200 1935 50  0000 C CNN
 F 1 "SW_Push" H 5200 1844 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u" H 5200 1850 50  0001 C CNN
+F 2 "steal_this_keyboard:Kailh-PG1350-1u-reversible" H 5200 1850 50  0001 C CNN
 F 3 "~" H 5200 1850 50  0001 C CNN
 	1    5200 1650
 	1    0    0    -1  
@@ -231,7 +231,7 @@ U 1 1 609D8EFD
 P 4550 1650
 F 0 "SW1" H 4550 1935 50  0000 C CNN
 F 1 "SW_Push" H 4550 1844 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-1u" H 4550 1850 50  0001 C CNN
+F 2 "steal_this_keyboard:Kailh-PG1350-1u-reversible" H 4550 1850 50  0001 C CNN
 F 3 "~" H 4550 1850 50  0001 C CNN
 	1    4550 1650
 	1    0    0    -1  
@@ -357,7 +357,7 @@ U 1 1 60A1A5A2
 P 1450 3400
 F 0 "J1" H 1367 3213 60  0000 C CNN
 F 1 "TRRS" H 1367 3319 60  0000 C CNN
-F 2 "Keebio-Parts:TRRS-PJ-320A" H 1600 3400 60  0001 C CNN
+F 2 "steal_this_keyboard:TRRS-PJ-320A-dual-squished" H 1600 3400 60  0001 C CNN
 F 3 "" H 1600 3400 60  0001 C CNN
 	1    1450 3400
 	-1   0    0    1   
@@ -373,20 +373,90 @@ F 3 "" H 1800 3500 50  0001 C CNN
 	1    1800 3500
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	1800 3600 1800 3500
-Connection ~ 1800 3500
 $Comp
 L power:VCC #PWR0105
 U 1 1 60A1D14A
-P 1800 3800
-F 0 "#PWR0105" H 1800 3650 50  0001 C CNN
-F 1 "VCC" V 1815 3928 50  0000 L CNN
-F 2 "" H 1800 3800 50  0001 C CNN
-F 3 "" H 1800 3800 50  0001 C CNN
-	1    1800 3800
+P 1800 3600
+F 0 "#PWR0105" H 1800 3450 50  0001 C CNN
+F 1 "VCC" V 1815 3728 50  0000 L CNN
+F 2 "" H 1800 3600 50  0001 C CNN
+F 3 "" H 1800 3600 50  0001 C CNN
+	1    1800 3600
 	0    1    1    0   
 $EndComp
 Text GLabel 1800 3700 2    50   Input ~ 0
 data
+$Comp
+L power:GND #PWR0106
+U 1 1 60A330F0
+P 4350 2950
+F 0 "#PWR0106" H 4350 2700 50  0001 C CNN
+F 1 "GND" H 4355 2777 50  0000 C CNN
+F 2 "" H 4350 2950 50  0001 C CNN
+F 3 "" H 4350 2950 50  0001 C CNN
+	1    4350 2950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6300 2700 6300 2950
+Wire Wire Line
+	6300 2950 5650 2950
+Connection ~ 6300 2700
+Wire Wire Line
+	6950 2700 6950 2950
+Wire Wire Line
+	6950 2950 6300 2950
+Connection ~ 6950 2700
+Connection ~ 6300 2950
+Wire Wire Line
+	4350 2350 4350 2950
+Connection ~ 4350 2350
+Connection ~ 4350 2950
+Wire Wire Line
+	5000 2350 5000 2950
+Connection ~ 5000 2350
+Connection ~ 5000 2950
+Wire Wire Line
+	5000 2950 4350 2950
+Wire Wire Line
+	5650 2350 5650 2950
+Connection ~ 5650 2350
+Connection ~ 5650 2950
+Wire Wire Line
+	5650 2950 5000 2950
+$Comp
+L power:GND #PWR0107
+U 1 1 60A41271
+P 1800 3800
+F 0 "#PWR0107" H 1800 3550 50  0001 C CNN
+F 1 "GND" V 1805 3672 50  0000 R CNN
+F 2 "" H 1800 3800 50  0001 C CNN
+F 3 "" H 1800 3800 50  0001 C CNN
+	1    1800 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push RST1
+U 1 1 60A44DAC
+P 1400 4300
+F 0 "RST1" H 1400 4585 50  0000 C CNN
+F 1 "SW_Push" H 1400 4494 50  0000 C CNN
+F 2 "steal_this_keyboard:SW_Tactile_SPST_Angled_MJTP1117" H 1400 4500 50  0001 C CNN
+F 3 "~" H 1400 4500 50  0001 C CNN
+	1    1400 4300
+	1    0    0    -1  
+$EndComp
+Text GLabel 1600 4300 2    50   Input ~ 0
+rst
+$Comp
+L power:GND #PWR0108
+U 1 1 60A456D4
+P 1200 4300
+F 0 "#PWR0108" H 1200 4050 50  0001 C CNN
+F 1 "GND" V 1205 4172 50  0000 R CNN
+F 2 "" H 1200 4300 50  0001 C CNN
+F 3 "" H 1200 4300 50  0001 C CNN
+	1    1200 4300
+	0    1    1    0   
+$EndComp
 $EndSCHEMATC

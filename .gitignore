@@ -1,1 +1,6 @@
 *.sch-bak
+*.gbr
+*.gbrjob
+*.drl
+*.zip
+*.kicad_pcb-bak

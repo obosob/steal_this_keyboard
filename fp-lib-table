@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name steal_this_keyboard)(type KiCad)(uri ${KIPRJMOD}/steal_this_keyboard.pretty)(options "")(descr ""))
 )
